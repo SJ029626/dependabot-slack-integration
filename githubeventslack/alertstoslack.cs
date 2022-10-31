@@ -62,7 +62,7 @@ namespace githubeventslack
         {
 
 
-            var slackWebHookUrl = "https://hooks.slack.com/services/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";
+            var slackWebHookUrl = "https://hooks.slack.com/services/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";
            // var slackWebHookUrl = Environment.GetEnvironmentVariable("SLACKWEBHOOKURL");
             using (var client = new HttpClient())
             {
